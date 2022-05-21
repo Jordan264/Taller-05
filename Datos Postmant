@@ -1,0 +1,17 @@
+1.
+
+{
+"name":"harold"
+}
+2.
+
+{"name":"david"}
+3.
+producto
+{"name":"Hotweels","categoria":"juguetes","vendedor":"david"}
+4.
+comprar 
+{"producto":"Hoteels","comprador":"harold"}
+5.
+recomendar
+{"comprador":"harold","producto":"Hotweels","calificacion":4}
